@@ -1,0 +1,12 @@
+html {
+   font-size: 62.5%; /* 1rem = 10px*/
+}
+img {
+   width: 30rem;
+}
+
+@media screen and (max-width: 480px) {
+   html {
+      font-size: 50%; /* 1rem = 8px*/
+   }
+}
